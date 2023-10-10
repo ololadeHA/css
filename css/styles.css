@@ -2,3 +2,9 @@ h1{
   background-color: black;
   color: blue;
 }
+
+h2{
+  text-align: center;
+  background-color: yellow;
+  color: green;
+}

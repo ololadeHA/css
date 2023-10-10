@@ -8,3 +8,9 @@ h2{
   background-color: yellow;
   color: green;
 }
+
+ul{
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 50px;
+  font-weight: 40px;
+}
